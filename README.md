@@ -24,7 +24,7 @@ Wait for the model to finish downloading.
 ________________________________________
 4. Continue with Python Setup
    
-Once Ollama is installed, proceed with setting up your Python environment and installing dependencies as mentioned before:
+Once Ollama is installed, proceed with setting up your Python environment and installing dependencies as mentioned before:<br>
 ```python -m venv venv```<br>
 ```venv\Scripts\activate```<br>
 ```pip install streamlit langchain langchain-community chromadb sentence-transformers pypdfs pypika chromadb```<br>
