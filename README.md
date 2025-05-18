@@ -4,10 +4,10 @@ This contains simple modules to kickstart your learning path for LLMs, LangGraph
 Setup
 1. Download and Install Ollama on Windows
    
-•	Go to Ollama’s official website.
-•	Download the Windows installer (.exe file).
-•	Run the installer and follow the setup instructions.
-•	After installation, restart your system if required.
+•	Go to Ollama’s official website.<br>
+•	Download the Windows installer (.exe file).<br>
+•	Run the installer and follow the setup instructions.<br>
+•	After installation, restart your system if required.<br>
 ________________________________________
 2. Verify the Installation
    
